@@ -1,5 +1,5 @@
 # Курсовая работа к курсу «Продвинутый JavaScript». Retro Game
-[![Build status](https://ci.appveyor.com/api/projects/status/phvo6nuc2m8n6yn6?svg=true)](https://ci.appveyor.com/project/OlyaMa/retro-game)
+[![Build status](https://ci.appveyor.com/api/projects/status/lrfmk7v2srbt2r8h?svg=true)](https://ci.appveyor.com/project/OlyaMa/retro-game)
 
 ## Концепция игры
 
